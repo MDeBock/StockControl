@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.centrado {
+    text-align: center !important;
+    vertical-align: middle !important;
+}
+.body{
+    top: 0;
+}
+#tabla{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    align-content: center;
+    margin-top: 25px;
+    margin: 12%;
+}
+
+
+
